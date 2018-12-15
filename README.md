@@ -14,3 +14,5 @@ BenchmarkIoCopyBuffer-4                  3000000               534 ns/op
 PASS
 ok      iocpb   5.786s
 ````
+Related:
+- https://github.com/golang/go/issues/5509
